@@ -1,0 +1,27 @@
+{
+  "name": "milkypay",
+  "version": "1.0.0",
+  "description": "Voice-Enabled Self-Custodial Remittance on Stellar",
+  "scripts": {
+    "start": "bash ./start-dev.sh",
+    "start:simple": "bash ./start-simple.sh",
+    "test": "echo \"No tests configured\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdermott7/MilkyPay2.git"
+  },
+  "keywords": [
+    "stellar",
+    "blockchain",
+    "remittance",
+    "voice",
+    "payment"
+  ],
+  "author": "Cole Dermott",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cdermott7/MilkyPay2/issues"
+  },
+  "homepage": "https://github.com/cdermott7/MilkyPay2#readme"
+}
